@@ -1,11 +1,12 @@
 Seq_Alignment_GPUS
 ==================
 
-This is a parallel programming Implementation of the famous global alignment problem which runs in O(n) Time as Compared to is Serial Counterpart which O(n^2) in complexity 
+This is a parallel programming Implementation of the famous global alignment problem which runs in O(n) Time as Compared to is Serial Counterpart which O(n^2) in complexity.
+We have implemented the Needleman-Wunsch's Algorithm (Diagonal Approach)
 
 
-AUTHORS 
-
+Authors 
+=======
 Vipul Harsh
 Sushant Hiray
 Ravi Kumar Roshan
